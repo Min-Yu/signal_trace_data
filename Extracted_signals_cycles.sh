@@ -1,5 +1,5 @@
 #/bin/tcsh
-
+#Exection script
 set signals_cycles_file = "./Extracted_signals_cycles.txt"
 
 cat /dev/null > $signals_cycles_file
